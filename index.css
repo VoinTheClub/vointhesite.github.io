@@ -1,0 +1,77 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Layer1
+{
+   background-color: #BA55D3;
+   background-image: none;
+   margin: 0px 0px 1px 0px;
+}
+#Button1
+{
+   border: 1px #000000 solid;
+   border-radius: 30px;
+   background-color: transparent;
+   background-image: url(images/youtube.png);
+   background-repeat: repeat;
+   background-position: left center;
+   background-size: 100% 100%;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#Button2
+{
+   border: 1px #000000 solid;
+   border-radius: 30px;
+   background-color: transparent;
+   background-image: url(images/Google.jpg);
+   background-repeat: repeat;
+   background-position: left center;
+   background-size: 100% 100%;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#Button4
+{
+   border: 1px #000000 solid;
+   border-radius: 30px;
+   background-color: transparent;
+   background-image: url(images/duolingo-thumb.jpg);
+   background-repeat: repeat;
+   background-position: left center;
+   background-size: 100% 100%;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#Button3
+{
+   border: 1px #000000 solid;
+   border-radius: 30px;
+   background-color: transparent;
+   background-image: url(images/arrow.jpg);
+   background-repeat: repeat;
+   background-position: left center;
+   background-size: 100% 100%;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}
+#Shape1
+{
+   border-width: 0;
+}
